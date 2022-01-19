@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;600&family=Lato:wght@300;400;700&display=swap');
+
+
+.icon-table {
+    margin: 8rem auto;
+    width: 90%;
+    max-width: 40rem;
+
+}
+
+td {
+    font-family: "Josefin Sans", sans-serif;  
+}
+
+.icon-table th {
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+.icon {
+    font-size: 3rem;
+    margin: 1rem;
+}
+
+.icon-span {
+    text-align: center;
+}
+
+span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.criteria {
+    text-align: center;
+    font-size: 1.5rem;
+}
